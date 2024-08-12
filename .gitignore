@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xm
+
+*.gitignore/*
+*.idea/*
+*.gradle/*
+local.properties
