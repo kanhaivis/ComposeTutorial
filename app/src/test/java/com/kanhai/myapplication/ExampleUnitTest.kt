@@ -1,4 +1,4 @@
-package com.kanhai.composetutorial
+package com.kanhai.myapplication
 
 import org.junit.Test
 
